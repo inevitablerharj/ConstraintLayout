@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConstraintSample</string>
+    <string name="star_image">Star Image</string>
+    <string name="city_image">City Image</string>
+</resources>
